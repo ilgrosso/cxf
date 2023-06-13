@@ -202,19 +202,19 @@
         <cxf.slf4j.version>1.7.36</cxf.slf4j.version>
         <cxf.snakeyaml.version>1.30</cxf.snakeyaml.version>
         <cxf.specs.jaxws.api.version>2.3_2</cxf.specs.jaxws.api.version>
-        <cxf.spring.boot.version>3.0.0-M4</cxf.spring.boot.version>
-        <cxf.spring.ldap.version>3.0.0-M2</cxf.spring.ldap.version>
+        <cxf.spring.boot.version>3.1.0</cxf.spring.boot.version>
+        <cxf.spring.ldap.version>3.1.0</cxf.spring.ldap.version>
         <cxf.spring.mock>spring-test</cxf.spring.mock>
         <cxf.spring.osgi.version>1.2.1</cxf.spring.osgi.version>
-        <cxf.spring.security.version>6.0.0-M6</cxf.spring.security.version>
-        <cxf.spring.version>6.0.0-M5</cxf.spring.version>
+        <cxf.spring.security.version>6.1.0</cxf.spring.security.version>
+        <cxf.spring.version>6.0.9</cxf.spring.version>
         <cxf.stax-ex.version>1.8.3</cxf.stax-ex.version>
         <cxf.swagger.ui.version>4.11.1</cxf.swagger.ui.version>
         <cxf.swagger.v3.version>2.2.1</cxf.swagger.v3.version>
         <cxf.swagger2.version>1.6.6</cxf.swagger2.version>
         <cxf.swagger2.guava.version>31.0.1-jre</cxf.swagger2.guava.version>
         <cxf.swagger2.guava.failureaccess.version>1.0.1</cxf.swagger2.guava.failureaccess.version>
-        <cxf.tika.version>2.4.1</cxf.tika.version>
+        <cxf.tika.version>2.8.0</cxf.tika.version>
         <cxf.tomcat.version>10.0.22</cxf.tomcat.version>
         <cxf.tomitribe.http.signature.version>1.8</cxf.tomitribe.http.signature.version>
         <cxf.undertow.osgi.version>[1.4,3.0)</cxf.undertow.osgi.version>
